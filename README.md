@@ -7,11 +7,17 @@ Python 3.10+
 ```sh
 pip install pygame
 ```
+or
+check [Releases](https://github.com/Read1dno/Coconut-Coin/releases/tag/v1.0.0)
+and download "CoconutCoinV1.0.0.rar"
 
 # Launch
 ```sh
 python menu.py
 ```
+or 
+Launch "Coconut Coin.exe"
+
 # Menu
 ![2024-07-27_16-00-09](https://github.com/user-attachments/assets/6d4c59d1-3fa5-4506-b26d-2d0bb7f727f3)
 
